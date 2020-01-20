@@ -4,7 +4,7 @@
 
 Submitted by: **Viraat Das**
 
-Time spent: **0.75** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## User Stories
 
@@ -27,17 +27,19 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/a5QtiaLzLO' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The app was simple to make. The issues that I dealt with was primarily testing the app on my phone. Though this wasn't
+within the scope of the assignment, there were issues regarding the certificates that made it a bit difficult to load
+the app on my phone. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Viraat Das
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

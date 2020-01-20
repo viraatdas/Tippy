@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tippy*
 
 **Tippy** is a tip calculator application for iOS.
 
 Submitted by: **Viraat Das**
 
-Time spent: **1.5** hours spent in total
+Time spent: **1** hours spent in total
 
 ## User Stories
 
@@ -27,13 +27,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/a5QtiaLzLO' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/mUQqcGVuw5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [RecordIt](https://recordit.co/).
 
 ## Notes
 
-The app was simple to make. The issues that I dealt with was primarily testing the app on my phone. Though this wasn't
+The app was simple to make. I didn't have time to implement the optional features because I was a bit late to join the class. The issues that I dealt with was primarily testing the app on my phone. Though this wasn't
 within the scope of the assignment, there were issues regarding the certificates that made it a bit difficult to load
 the app on my phone. 
 
